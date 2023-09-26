@@ -18,7 +18,7 @@ h4all.forEach(function (elem) {
   elem.addEventListener("mouseleave", function () {
     crsr.style.scale = 1;
     crsr.style.border = "0px solid #95C11E";
-    crsr.style.backgroundColor = "#95C11E";
+    crsr.style.backgroundColor = "#F25B2E";
   });
 });
 
